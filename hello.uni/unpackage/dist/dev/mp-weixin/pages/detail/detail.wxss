@@ -1,0 +1,18 @@
+
+.box1{
+	width: 200px;
+	height: 200px;
+	background-color: brown;
+}
+.box2{
+	width: 100px;
+	height: 80px;
+	background-color: aqua;
+}
+.box-active1{
+	background-color: darkgreen;
+}
+.box-active2{
+	background-color: black;
+}
+
